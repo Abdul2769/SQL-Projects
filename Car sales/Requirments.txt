@@ -1,0 +1,30 @@
+1.	Read Cars Data
+2.	Total Cars: To get a count of total records
+3.	The manager asked the employee, how many cars will be available in 2019?
+4.	The manager asked the employee How many cars will be available in 2016,2017,2018?
+5.	Client asked me to print the total of all cars by year. I don’t see all the details.
+6.	Client asked to car dealer agent, how many diesel cars will be there in 2020?
+7.	Client asked to car dealer agent, how many petrol cars will be there in 2020?
+8.	Manager asked me to print all the fuel cars (Petrol,diesel, and CNG) come by all year
+9.	Manager said there were more than 100 cars in a year, which year had more than 100 cars?
+10.	Manager said, all cars count details between 1998 and 2019, we need complete list
+11.	What is the total count of used cars in the dataset?
+12.	What are the unique car brands available in the dataset?
+13.	How many cars of each brand are available in the dataset?
+14.	What is the average selling price of used cars in the dataset?
+15.	What is the maximum and minimum selling price of used cars in the dataset?
+16.	Which car has the highest selling price, and what are its details (brand, model, etc.)?
+17.	How many cars have manual transmission, and how many have automatic transmission?
+18.	What is the average mileage of used cars in the dataset?
+19.	What is the distribution of fuel types among the used cars (e.g., petrol, diesel, CNG)?
+20.	How many cars are available in each year of manufacture?
+21.	What is the average age of the used cars in the dataset?
+22.	How does the selling price vary with the age of the car?
+23.	What are the top 5 most expensive cars in the dataset?
+24.	What are the top 5 cheapest cars in the dataset?
+25.	Is there any correlation between mileage and selling price of used cars?
+26.	How many cars are available in each location (city)?
+27.	Which location has the highest number of used cars listed?
+28.	What is the average selling price of cars in each city?
+29.	How does the selling price vary with the number of previous owners?
+30.	What is the distribution of car seats among the used cars (e.g., 4-seater, 5-seater, etc.)?
