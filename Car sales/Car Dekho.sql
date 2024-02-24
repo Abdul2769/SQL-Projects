@@ -1,8 +1,23 @@
-select count(*) from car_dekho where year = 2019;
-select count(*) from car_dekho where year in (2016,2017,2018) group by year;
-select year, count(*) from car_dekho group by year;
-select count(*) from car_dekho where year = 2016 and Fuel_Type = 'Diesel';
-select count(*) from car_dekho where year = 2016 and Fuel_Type = 'Petrol';
+select count(*) 
+from car_dekho 
+where year = 2019;
+
+select count(*) 
+from car_dekho 
+where year in (2016,2017,2018) 
+group by year;
+
+select year, count(*) 
+from car_dekho 
+group by year;
+
+select count(*) 
+from car_dekho 
+where year = 2016 and Fuel_Type = 'Diesel';
+
+select count(*) 
+from car_dekho 
+where year = 2016 and Fuel_Type = 'Petrol';
 select year, count(*) from car_dekho where Fuel_Type = 'Diesel' group by year;
 select year, count(*) from car_dekho where Fuel_Type = 'Petrol' group by year;
 select year, count(*) from car_dekho where Fuel_Type = 'Electric' group by year;
