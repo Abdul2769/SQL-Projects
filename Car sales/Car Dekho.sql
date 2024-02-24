@@ -1,3 +1,5 @@
+/* Q1. what is the count of cars for the year 2019?
+
 select count(*) from car_dekho where year = 2019;
 select count(*) from car_dekho where year in (2016,2017,2018) group by year;
 select year, count(*) from car_dekho group by year;
